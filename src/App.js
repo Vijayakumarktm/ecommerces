@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
+import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom';
+import PropTypes from 'prop-types';
+import '../src/css/linearicons.css';
+import '../src/css/font-awesome.min.css';
+import '../src/css/themify-icons.css';
+import '../src/css/bootstrap.css';
+import '../src/css/main.css';
+
+import 'jquery';
+import 'bootstrap';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  
 }
 
 export default App;
