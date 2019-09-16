@@ -2,7 +2,7 @@
   "name": "ecommerces",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vijayakumarktm.github.io/ecommerces",
+  "homepage": "http://Vijayakumarktm.github.io/ecommerces",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.3",
