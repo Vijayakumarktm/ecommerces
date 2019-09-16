@@ -2,7 +2,7 @@
   "name": "ecommerces",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vijayakumarktm.tech/ecommerces",
+  "homepage": "https://vijayakumarktm.tech/ecommerces",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.3",
